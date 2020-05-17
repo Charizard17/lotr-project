@@ -1,0 +1,5 @@
+.backgroundImg {
+    background-image: url("./components/Main/images/mordor.gif");
+    background-color: black;
+    background-size: cover;
+}

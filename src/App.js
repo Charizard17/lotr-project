@@ -5,8 +5,8 @@ import Main from "./components/Main/Main";
 
 function App() {
   return (
-    <div>
-      <div className="container-fluid bg-dark" style={{ height: "100vh" }}>
+    <div className="backgroundImg" >
+      <div className="container-fluid" style={{ height: "100vh" }}>
         <div className="row">
           <div className="col-3" style={{ height: "100vh" }}>
             <LeftBar />
